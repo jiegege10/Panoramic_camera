@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_black">#A5000000</color>
+    <color name="color_textviewinfo">#FF0066CC</color>
+    <color name="color_toast_background">#96323232</color>
+    <color name="color_wb_button">#C8CCCCCC</color>
+    <color name="color_wb_button_touched">#C8FFDF80</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">Pano Lite</string>
+    <string name="camera_error_msg">无法访问相机，应用程序将关闭.</string>
+    <string name="cancel">取消</string>
+    <string name="compass_interference_msg">罗盘干扰检测。在图8的模式\请挥舞你的装置</string>
+    <string name="empty"/>
+    <string name="exp_auto">Auto</string>
+    <string name="exp_locked">锁定</string>
+    <string name="exp_locked_start">Locked On Start</string>
+    <string name="flash_auto">Auto</string>
+    <string name="flash_off">Off</string>
+    <string name="flash_on">On</string>
+    <string name="flash_torch">火炬</string>
+    <string name="instruction_empty"/>
+    <string name="instruction_finish_shot">准备就绪或继续旋转时点击完成。</string>
+    <string name="instruction_first_shot">向左或向右旋转或点击重启</string>
+    <string name="instruction_focusing">聚焦</string>
+    <string name="instruction_hold_vertically">垂直地握住你的设备</string>
+    <string name="instruction_tap_start">点击开始</string>
+    <string name="memory_full_dialog_text">"内存满！请删除一些文件以保存全景图。."</string>
+    <string name="ok">确定</string>
+    <string name="screen_error_msg">屏幕分辨率不受支持，应用程序现在关闭.</string>
+    <string name="sdcard_error_dialog_text">"USB storage unavailable! Panorama can't be saved."</string>
+    <string name="warning">Warning!!!</string>
+    <string name="wb">白平衡</string>
+    <string name="wb_auto">Auto</string>
+    <string name="wb_cloudy_daylight">多云的白天</string>
+    <string name="wb_daylight">白天</string>
+    <string name="wb_fluorescent">荧光</string>
+    <string name="wb_incandescent">白炽灯</string>
+    <string name="wb_locked_start">锁定开始</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

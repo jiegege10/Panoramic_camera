@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/layout/test_main.xml",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/layout/test_main.xml"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/layout/popup_vertical.xml",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/layout/popup_vertical.xml"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/layout/action_item_vertical.xml",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/layout/action_item_vertical.xml"
+    }
+]

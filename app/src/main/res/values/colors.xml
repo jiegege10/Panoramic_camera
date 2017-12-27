@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_black">#A5000000</color>
+    <color name="color_toast_background">#96323232</color>
+    <color name="color_wb_button">#C8CCCCCC</color>
+    <color name="color_wb_button_touched">#C8FFDF80</color>
+    <color name="color_textviewinfo">#FF0066CC</color>
+
+</resources>

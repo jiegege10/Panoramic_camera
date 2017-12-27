@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/wb_auto2.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/wb_auto2.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/wb_fluorescent2.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/wb_fluorescent2.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menuselect_wb_cloudy.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/ic_menuselect_wb_cloudy.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menuselect_wb_locked.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/ic_menuselect_wb_locked.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menuselect_wb_auto.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/ic_menuselect_wb_auto.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/wb_locked2.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/wb_locked2.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menuselect_wb_incandescent.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/ic_menuselect_wb_incandescent.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/wb_daylight2.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/wb_daylight2.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/wb_incandescent2.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/wb_incandescent2.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menuselect_wb_daylight.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/ic_menuselect_wb_daylight.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menuselect_wb_fluorescent.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/ic_menuselect_wb_fluorescent.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/exp_icon.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/exp_icon.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/wb_cloudy2.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/wb_cloudy2.png"
+    },
+    {
+        "merged": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/res/merged/debug/drawable-hdpi/flash.png",
+        "source": "/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/src/main/res/drawable-hdpi/flash.png"
+    }
+]

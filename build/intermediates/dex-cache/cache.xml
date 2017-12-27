@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/libs/dmd_pano_library_lite.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8494f8b57b7594ffa2e3e54c6dc4477625c99f9">
+        <dex dex="/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/pre-dexed/debug/dmd_pano_library_lite_b8d40ce0dc22a590d61fafa2a334a98e93675eef.jar" />
+    </item>
+
+</items>

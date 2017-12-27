@@ -1,0 +1,4 @@
+#Tue Dec 26 14:59:34 CST 2017
+base.0=/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/MacBook/Downloads/dmdpanoramalite_android/DMD_Pano_Lite_Androidstudio/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
